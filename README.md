@@ -1,87 +1,55 @@
-# Project Title
+# 我的餐廳清單
 
-One Paragraph of project description goes here
+這是 AlphaCamp 學期2-3的第一個作業，用現成的模板完成Express.js Web App的開發。
 
-## Getting Started
+## 開始使用
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+依照下列的步驟將這個專案複製到你的主機上開始進行測試。
+由於Github Pages僅供靜態頁面代管服務，恕無法直接於Github Pages渲染。
 
-### Prerequisites
 
-What things you need to install the software and how to install them
+### 環境建置
 
-```
-Give examples
-```
+Node.js
 
-### Installing
+### 安裝流程
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+1. 使用終端機複製專案至本機
 
 ```
-Give the example
+git clone https://github.com/jacob17/restaurant-list.git
 ```
 
-And repeat
+2. 在終端機(Terminal)存取專案資料夾
 
 ```
-until finished
+cd restaurant-list
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+3. 安裝 npm 套件和 nodemon 套件
 
 ```
-Give an example
+npm install
+npm i nodemon
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
+4. 啟動伺服器
 
 ```
-Give an example
+npm run dev
 ```
 
-## Deployment
+5. 當終端機出現以下字樣，表示伺服器已啟動
 
-Add additional notes about how to deploy this on a live system
+```
+The Express server is running on http://localhost:3000
+```
 
-## Built With
+6. 到 [http://localhost:3000](http://localhost:3000) 就可以開始瀏覽渲染結果囉。
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## 畫面截圖
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+![image](https://github.com/jacob17/restaurantList/blob/master/public/img/Screenshot-1.png)
+![image](https://github.com/jacob17/restaurantList/blob/master/public/img/Screenshot-2.png)
+![image](https://github.com/jacob17/restaurantList/blob/master/public/img/Screenshot-3.png)
+![image](https://github.com/jacob17/restaurantList/blob/master/public/img/Screenshot-4.png)
