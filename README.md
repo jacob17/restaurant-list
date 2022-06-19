@@ -49,7 +49,7 @@ The Express server is running on http://localhost:3000
 
 ## 畫面截圖
 
-![image](https://github.com/jacob17/restaurantList/blob/master/public/img/Screenshot-1.png)
-![image](https://github.com/jacob17/restaurantList/blob/master/public/img/Screenshot-2.png)
-![image](https://github.com/jacob17/restaurantList/blob/master/public/img/Screenshot-3.png)
-![image](https://github.com/jacob17/restaurantList/blob/master/public/img/Screenshot-4.png)
+![image](https://github.com/jacob17/restaurant-list/blob/main/public/img/Screenshot-1.png)
+![image](https://github.com/jacob17/restaurant-list/blob/main/public/img/Screenshot-2.png)
+![image](https://github.com/jacob17/restaurant-list/blob/main/public/img/Screenshot-3.png)
+![image](https://github.com/jacob17/restaurant-list/blob/main/public/img/Screenshot-4.png)
